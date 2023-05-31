@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3>Denis Nderitu Wachira Hello Microverse Project</h3>
 
 </div>
 
@@ -60,9 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Denis Nderitu Wachira Hello Microverse Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This project has been disgned to help show my mastery in week 1 concepts espcially use of branches in group coding
 
 **[your_project__name]** is a...
 
